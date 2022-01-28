@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "companyname": "KFC",
+    "logo": " https://cdn.pixabay.com/photo/2015/11/18/17/19/poster-1049571_960_720.jpg",
+    "Speciality": "Food",
+    "City": "Lahore"
+  },
+  {
+    "id": 2,
+    "companyname": "Second Wife",
+    "logo": "https://cdn.pixabay.com/photo/2017/12/10/14/47/pizza-3010062_960_720.jpg",
+    "Speciality": "Food",
+    "City": "Lahore"
+  },
+  {
+    "id": 3,
+    "companyname": "Carrefour",
+    "logo": "https://cdn.pixabay.com/photo/2018/01/25/08/14/aisle-3105629_960_720.jpg",
+    "Speciality": "Grocery",
+    "City": "Lahore"
+  },  
+  {
+    "id": 4,
+    "companyname": "Meet the cheese",
+    "logo": "https://cdn.pixabay.com/photo/2017/01/26/02/06/platter-2009590_960_720.jpg",
+    "Speciality": "Food",
+    "City": "Lahore"
+  },
+  {
+    "id": 5,
+    "companyname": "Naimat Khana",
+    "logo": "https://cdn.pixabay.com/photo/2016/11/29/05/07/breads-1867459_960_720.jpg",
+    "Speciality": "Food",
+    "City": "Lahore"
+  },
+  {
+    "id": 6,
+    "companyname": "Hyper Star",
+    "logo": "https://cdn.pixabay.com/photo/2016/03/23/19/38/shopping-carts-1275480_960_720.jpg",
+    "Speciality": "Grocery",
+    "City": "Karachi"
+  },
+  {
+    "id": 7,
+    "companyname": "Spark",
+    "logo": "https://cdn.pixabay.com/photo/2018/01/24/17/33/light-bulb-3104355_960_720.jpg",
+    "Speciality": "Electrical",
+    "City": "Lahore"
+  },
+  {
+    "id": 8,
+    "companyname": "Jalal Sons",
+    "logo": "https://cdn.pixabay.com/photo/2014/04/22/02/56/pizza-329523_960_720.jpg",
+    "Speciality": "Grocery",
+    "City": "Rawalpindi"
+  },
+  {
+    "id": 9,
+    "companyname": "Target",
+    "logo": "https://cdn.pixabay.com/photo/2016/11/18/14/05/brick-wall-1834784_960_720.jpg",
+    "Speciality": "Food",
+    "City": "Multan"
+  }
+]

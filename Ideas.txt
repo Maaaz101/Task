@@ -1,0 +1,6 @@
+Following are some of the ideas to make the app better if i had more time:
+
+ 1: If the app was to get data from an API with millions of selections I would use the debouncing technique i.e only to filter data after the user
+    has paused typing for a certain time frame e.g 200ms, so that frequent keystrokes and filter function don't slow our app down. 
+ 2: Make UI better, make the UI look better and more interactive.
+ 3: Optimize the code so that it doesn't refresh frequently.
